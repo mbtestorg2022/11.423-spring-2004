@@ -8,34 +8,375 @@ In addition to the nine assignments listed below, students are graded on partici
 
 Reflection journal entry 1-3: Students are responsible for emailing instructors a Word document three times during the semester in which they examine their beliefs and assumptions, how past experiences affect their actions, their feelings on how the course is progressing; reactions to the readings, etc. The entries aid the in-class reflection sessions.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Course Introduction  {{< br >}}Client Introduction | &nbsp; |
-| 2 | What's Happening in Lawrence? | &nbsp; |
-| 3 | Site Visit @ LCW | &nbsp; |
-| 4 | Reflection | Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1)) |
-| 5 | Introduction to IDAs  {{< br >}}Guest Speakers | &nbsp; |
-| 6 | IDAs | Assignment 2a ([PDF]({{< baseurl >}}/resources/assignment2a)) |
-| 7 | IDA Discussion (cont.) | &nbsp; |
-| 8 | Data Collection Strategy | Assignment 2b ([PDF]({{< baseurl >}}/resources/assignment2b)) |
-| 9 | Client Meeting @ MIT | &nbsp; |
-| 10 | RGI Steering Committee Meeting | &nbsp; |
-| 11 | Group Work/ Group Two @ LCW | &nbsp; |
-| 12 | Open Format/ Discuss Readings | &nbsp; |
-| 13 | Group Work/ Group One @ LCW | &nbsp; |
-| 14 | Open Format/ Discuss Readings | &nbsp; |
-| 15 | Client Meeting @ LCW | &nbsp; |
-| 16 | Open Format/ Discuss Readings | &nbsp; |
-| 17 | Group Work @ LCW | &nbsp; |
-| 18 | Reflection | &nbsp; |
-| 19 | Discussion on Scenarios | Assignment 3b ([PDF]({{< baseurl >}}/resources/assignment3b)) |
-| 20 | Discussion on Data | Assignment 3a ([PDF]({{< baseurl >}}/resources/assignment3a)) |
-| 21 | Group Work | &nbsp; |
-| 22 | Group Work | &nbsp; |
-| 23 | Open Format/ Discuss Readings | &nbsp; |
-| 24 | Group Work | &nbsp; |
-| 25 | Group Work | &nbsp; |
-| 26 | RGI Steering Committee Meeting | Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4)) |
-| 27 | Final Presentation | Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5)) |
-| 28 | Reflection |  {{< br >}}{{< br >}}  |
-| 29 | &nbsp; | Assignment 6a ([PDF]({{< baseurl >}}/resources/assignment6a))  {{< br >}}  {{< br >}}Assignment 6b ([PDF]({{< baseurl >}}/resources/assignment6b))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction  
+Client Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What's Happening in Lawrence?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Site Visit @ LCW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 ([PDF]({{< baseurl >}}/resources/assignment1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to IDAs  
+Guest Speakers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+IDAs
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2a ([PDF]({{< baseurl >}}/resources/assignment2a))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+IDA Discussion (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Data Collection Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2b ([PDF]({{< baseurl >}}/resources/assignment2b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Client Meeting @ MIT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+RGI Steering Committee Meeting
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work/ Group Two @ LCW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Open Format/ Discuss Readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work/ Group One @ LCW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Open Format/ Discuss Readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Client Meeting @ LCW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Open Format/ Discuss Readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work @ LCW
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion on Scenarios
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3b ([PDF]({{< baseurl >}}/resources/assignment3b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion on Data
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3a ([PDF]({{< baseurl >}}/resources/assignment3a))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Open Format/ Discuss Readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Group Work
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+RGI Steering Committee Meeting
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 ([PDF]({{< baseurl >}}/resources/assignment4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 ([PDF]({{< baseurl >}}/resources/assignment5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 6a ([PDF]({{< baseurl >}}/resources/assignment6a))  
+  
+Assignment 6b ([PDF]({{< baseurl >}}/resources/assignment6b))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
