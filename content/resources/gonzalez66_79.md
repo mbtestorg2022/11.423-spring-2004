@@ -5,6 +5,7 @@ description: Part 3 of a thesis authored by a graduate of the Department of Urba
   research for this class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/204037ed137128d9713e65b4b3d6cacb_gonzalez66_79.pdf
 file_type: application/pdf
+parent_uid: b122e7b4-06c5-5e56-899c-f85d488176a5
 resourcetype: Document
 title: gonzalez66_79.pdf
 uid: 204037ed-1371-28d9-713e-65b4b3d6cacb

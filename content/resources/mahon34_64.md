@@ -5,6 +5,7 @@ description: Part 2 of a thesis authored by a graduate of the Department of Urba
   research for this class.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-423-information-and-communication-technologies-in-community-development-spring-2004/519cbbfbe0c7c740a2f01824bbcf7475_mahon34_64.pdf
 file_type: application/pdf
+parent_uid: b122e7b4-06c5-5e56-899c-f85d488176a5
 resourcetype: Document
 title: mahon34_64.pdf
 uid: 519cbbfb-e0c7-c740-a2f0-1824bbcf7475
